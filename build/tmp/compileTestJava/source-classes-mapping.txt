@@ -1,0 +1,2 @@
+com/ssafy/specialized/SpecializedApplicationTests.java
+ com.ssafy.specialized.SpecializedApplicationTests
