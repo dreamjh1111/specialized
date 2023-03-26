@@ -27,6 +27,7 @@ import java.util.Optional;
 import java.util.concurrent.TimeUnit;
 
 @Slf4j
+@Service
 @RequiredArgsConstructor
 public class UserServiceImpl implements UserService {
 

@@ -8,8 +8,6 @@ com/ssafy/specialized/service/CategoryServiceImpl.java
  com.ssafy.specialized.service.CategoryServiceImpl
 com/ssafy/specialized/service/UserServiceImpl.java
  com.ssafy.specialized.service.UserServiceImpl
-com/ssafy/specialized/domain/dto/Reservation/ReservationRequestDTO.java
- com.ssafy.specialized.domain.dto.Reservation.ReservationRequestDTO
 com/ssafy/specialized/domain/entity/Bookmark.java
  com.ssafy.specialized.domain.entity.Bookmark
  com.ssafy.specialized.domain.entity.Bookmark$BookmarkBuilder
@@ -17,9 +15,6 @@ com/ssafy/specialized/common/config/SwaggerConfig.java
  com.ssafy.specialized.common.config.SwaggerConfig
 com/ssafy/specialized/service/CustomUserDetailsService.java
  com.ssafy.specialized.service.CustomUserDetailsService
-com/ssafy/specialized/domain/dto/Reservation/ReservationResponseDTO.java
- com.ssafy.specialized.domain.dto.Reservation.ReservationResponseDTO
- com.ssafy.specialized.domain.dto.Reservation.ReservationResponseDTO$ReservationResponseDTOBuilder
 com/ssafy/specialized/repository/BusinessHourRepository.java
  com.ssafy.specialized.repository.BusinessHourRepository
 com/ssafy/specialized/repository/OwnerCommentRepository.java
@@ -46,8 +41,6 @@ com/ssafy/specialized/domain/dto/user/UserLoginDTO.java
  com.ssafy.specialized.domain.dto.user.UserLoginDTO
 com/ssafy/specialized/repository/ReviewRepository.java
  com.ssafy.specialized.repository.ReviewRepository
-com/ssafy/specialized/service/ReservationServiceImpl.java
- com.ssafy.specialized.service.ReservationServiceImpl
 com/ssafy/specialized/domain/dto/review/ReviewDto.java
  com.ssafy.specialized.domain.dto.review.ReviewDto
 com/ssafy/specialized/controller/UserController.java
@@ -79,8 +72,6 @@ com/ssafy/specialized/controller/CategoryController.java
  com.ssafy.specialized.controller.CategoryController
 com/ssafy/specialized/repository/ReviewImageRepository.java
  com.ssafy.specialized.repository.ReviewImageRepository
-com/ssafy/specialized/controller/ReservationController.java
- com.ssafy.specialized.controller.ReservationController
 com/ssafy/specialized/common/exception/ErrorCode.java
  com.ssafy.specialized.common.exception.ErrorCode
 com/ssafy/specialized/domain/dto/user/UpdateUserHobbyRequestDto.java
@@ -114,8 +105,6 @@ com/ssafy/specialized/domain/dto/user/GetAllExistingCategoryListResponseDto.java
  com.ssafy.specialized.domain.dto.user.GetAllExistingCategoryListResponseDto
 com/ssafy/specialized/domain/dto/user/UserDTO.java
  com.ssafy.specialized.domain.dto.user.UserDTO
-com/ssafy/specialized/service/ReservationService.java
- com.ssafy.specialized.service.ReservationService
 com/ssafy/specialized/domain/dto/user/OwnerDTO.java
  com.ssafy.specialized.domain.dto.user.OwnerDTO
  com.ssafy.specialized.domain.dto.user.OwnerDTO$OwnerDTOBuilder
